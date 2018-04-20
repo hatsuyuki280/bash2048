@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+##测试
 
 #important variables
 declare -ia board    # array that keeps track of game status
